@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オパライト",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-03-05T01:52:35.900143Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Opalite_Taylor_Swift.txt"
+    }
+  ]
+}
